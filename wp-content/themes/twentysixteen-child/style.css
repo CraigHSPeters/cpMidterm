@@ -14,3 +14,7 @@ h1 {
     font-size: 1.5rem !important;
 }
 
+/* Reduce previous and next titles to 1rem */
+.post-navigation .post-title {
+    font-size: 1rem;
+}
