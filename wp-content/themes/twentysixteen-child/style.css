@@ -1,0 +1,16 @@
+/*
+Theme Name: Twentysixteen-child
+Theme URI: 
+Description: A child theme of twentysixteen
+Author: Craig Peters
+Author URI: 
+Template: twentysixteen
+Version: 0.1.0
+*/
+
+
+/* Reduce blog post titles to 1.5rem */
+h1 {
+    font-size: 1.5rem !important;
+}
+
