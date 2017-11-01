@@ -30,10 +30,11 @@ h1 {
 }
 
 /* Change all horizontal lines */
-.widget, .post-navigation {
+.widget, .post-navigation, .post-navigation div + div  {
     border-top: 2px solid #d0d0d0;
 }
 
 .post-navigation {
     border-bottom: 2px solid #d0d0d0;
 }
+
