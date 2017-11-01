@@ -8,7 +8,7 @@ function theme_enqueue_styles() {
    );
 }
 
-// Show copyright symbol in footer
+// Show copyright symbol and year in footer
 function comicpress_copyright() {
 global $wpdb;
 $copyright_dates = $wpdb->get_results("
