@@ -18,3 +18,11 @@ h1 {
 .post-navigation .post-title {
     font-size: 1rem;
 }
+
+/* Replace footer */
+.site-info {
+    color: #1a1a1a;
+    font-size: 13px;
+    font-size: 1rem;
+    line-height: 1.6153846154;
+}
